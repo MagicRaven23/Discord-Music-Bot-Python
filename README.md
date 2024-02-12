@@ -24,12 +24,9 @@ Then you can install the libraries.
    pip install pytube
    pip install yt-dlp
    pip install discord-ext-bot
+   pip install asyncio
 ```
-
-> [!TIP]
-> When pip not work then, try pip3
-
- > [!TIP]
-> Optional information to help a user be more successful.
-
 </details>
+
+> [!TIP]\
+> When pip not work then, try pip3
