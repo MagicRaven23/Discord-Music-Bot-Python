@@ -29,4 +29,7 @@ Then you can install the libraries.
 > [!TIP]
 > When pip not work then, try pip3
 
+ > [!TIP]
+> Optional information to help a user be more successful.
+
 </details>
