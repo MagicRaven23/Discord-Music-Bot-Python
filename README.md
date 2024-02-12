@@ -28,5 +28,14 @@ Then you can install the libraries.
 ```
 </details>
 
+## Quick Start
+- Go to a voice channel
+- Then write `!join` in the chat from the music bot
+- Write `!play` and paste the youtube link
+  <br><br>
+That´s all
+
 > [!TIP]\
 > When pip not work then, try pip3
+
+
