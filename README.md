@@ -26,6 +26,7 @@ Then you can install the libraries.
    pip install discord-ext-bot
    pip install asyncio
 ```
+install ffmpeg: <br> https://cran.r-project.org/web/packages/act/vignettes/install_ffmpeg.html
 </details>
 
 ## Quick Start
