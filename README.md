@@ -11,7 +11,7 @@ The music is saved on the PC and installed using pytube.
 
 <details>
 
-<summary>Windows</summary>
+<summary>Ubuntu Linux</summary>
 
 ### Installation
 
