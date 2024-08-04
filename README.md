@@ -34,7 +34,7 @@ install ffmpeg: <br> https://cran.r-project.org/web/packages/act/vignettes/insta
 - Then write `!join` in the chat from the music bot
 - Write `!play` and paste the youtube link
   <br><br>
-That´s all
+That´s it
 
 > [!TIP]\
 > When pip not work then, try pip3
